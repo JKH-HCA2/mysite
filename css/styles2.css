@@ -1,0 +1,21 @@
+h1 {
+    color: blue;
+    font-size: 20pt;
+}
+
+h2 {
+    color: grey;
+    font-size: 16pt;
+    margin-left: 20px;
+    border-bottom: solid 2px black;
+    width: 97px;
+}
+
+p {
+    color: grey;
+    margin-left: 40px;
+}
+
+img {
+    margin-left: 50px;
+}
